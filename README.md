@@ -2,7 +2,7 @@
 
 ---
 
-**Repository Name: Sens2Sea-Radar-System-Internship**
+**Repository Name: AOSD**
 
 **Description:**
 
